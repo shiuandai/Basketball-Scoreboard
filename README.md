@@ -32,7 +32,7 @@ I start the Scrimba Module 2 course- Web dev basics and learn how to use the bas
 
 ## 1. - Design requirements
 
-Designing a homwtown homepage website requires following some rules and taking into consideration that the project is not only a graphic project but a web project too. The next sections are crucial for any web project.
+Designing a basketball scoreboard website requires following some rules and taking into consideration that the project is not only a graphic project but a web project too. The next sections are crucial for any web project.
 
 ### 1.1 - Structure design
 
