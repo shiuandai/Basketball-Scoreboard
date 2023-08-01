@@ -12,7 +12,7 @@
 	* [1.2 Fonts and texts](#12---fonts-and-texts)
 	* [1.4 Publish files](#14---publish-files)
 * **[3. Flexbox](#2---Flexbox)**
-	* [2.1 Refine the project using CSS](#21---refine-the-project-using-CSS)
+	* [3.1 Refine the project using CSS](#31---refine-the-project-using-CSS)
 * **[3. Before production](#3---before-production)**
 
 ---
@@ -78,13 +78,13 @@ It is recommended to organise the font size and style in the design process. in 
 
 ## 3. - Flexbox
 
-### 2.1 - Refine the project using CSS
+### 3.1 - Property in Flexbox
 
 It is recommended to master **flex-box** concept, it usually combine with different **Property** like **flex-direction: column; align-items: center;** .
 
 Define what condition to use the flex-box, it influences on how the content display.
 
-⚠️ *When use the flex-box, it is good to use property of "gap" rather than "margin" to generate the gap.*
+⚠️ *Get to know more about Flexbox. Check out ([HERE](https://www.w3schools.com/css/css3_flexbox_container.asp))*
 
 ## 3. - Before production
 
