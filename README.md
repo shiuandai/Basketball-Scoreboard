@@ -8,7 +8,7 @@
 
 ## Table of Contents
 * **[1. Design requirements](#1---design-requirements)**
-	* [1.1 Structure Design](#11---grid-system)
+	* [1.1 Structure Design](#11---structure-design)
 	* [1.2 Fonts and texts](#12---fonts-and-texts)
 * **[2. Flexbox](#2---Flexbox)**
 	* [2.1 Property in Flexbox](#21---Property-in-Flexbox)
