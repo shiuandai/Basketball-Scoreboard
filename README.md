@@ -38,22 +38,21 @@ Designing a homwtown homepage website requires following some rules and taking i
 
 ### 1.1 - Structure design
 
-* [ ] **HTML** is "HyperText Markup Language" It defines the meaning and structure of web content. The Web Designer should keep the structure simple and the similar content chould be grouped together to make sure it can be read clearly.
-	> ℹ️ [HTML] GET to know more about the definition. → [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [ ] **Button** tag defines a clickable button. You can put text and tag inside the button element. It becomes clickable by using **onclick** in the button element.
+	> ℹ️ [Button] GET to know more about the definition. → [W3School](https://www.w3schools.com/jsref/event_onclick.asp)
 
-* [ ] **Be familiar with the HTML Tag**. 
-* [ ] Before working on each website project, I can **build every templates** with my own strcuture concept. Building the structure before everything else, will facilitate my work afterwards.
+* [ ] **Master the Flexbox** and **container**. 
+* [ ] Before working on each website project, I prefer **drawing templates** with my own strcuture concept. Building the structure before everything else, will facilitate my work afterwards.
 
-```html
-<div class="container">
-  <div class="row">
-    <div class="col-sm">
-    </div>
-  </div>
-</div>
+```css
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+} 
 ```
 
-⚠️ *Use the "container" to define which tags should be contained inside, they perform "active" when using the **flex-box**, it is a crucial method to foster the web strcture building.* 
+⚠️ *Use the "flexbox" to organise the layout, think about why we use the **flex-box**, there is a good explanation.* → [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Typical_use_cases_of_flexbox)
 
 **[⬆ back to top](#table-of-contents)**
 
