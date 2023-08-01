@@ -9,10 +9,9 @@
 ## Table of Contents
 * **[1. Design requirements](#1---design-requirements)**
 	* [1.1 Structure Design](#11---grid-system)
-	* [1.2 Colors](#12---colors)
-	* [1.3 Fonts and texts](#13---fonts-and-texts)
+	* [1.2 Fonts and texts](#12---fonts-and-texts)
 	* [1.4 Publish files](#14---publish-files)
-* **[2. Pre-work phases](#2---pre-work-phases)**
+* **[3. Flexbox](#2---Flexbox)**
 	* [2.1 Refine the project using CSS](#21---refine-the-project-using-CSS)
 * **[3. Before production](#3---before-production)**
 
@@ -56,37 +55,28 @@ body{
 
 **[⬆ back to top](#table-of-contents)**
 
-### 1.2 - Colors
 
-You can "SAVE" your color preference in your account. → [Color Palette](https://scrimba.com/links/hometown-palette)
-
-* [ ] **All colors used in the creatives are named** (RED: #E63946, LIGHT: #F1FAEE, AQUA: #A8DADC, LIGHT BLUE: #457B9D, DARK BLUE: #1D3557) which are provided by Scrimba course so that they become the basic color guideline to use in my project.
-
-* [ ] All or the most important/used **colors contrast** in the design to allow text with the background can be easily read.
-
-**[⬆ back to top](#table-of-contents)**
-
-### 1.3 - Fonts and texts
+### 1.2 - Fonts and texts
 
 Fonts are an essential part of every design.
 
-It is recommended to organise the font size and style in the design process. There are several website where the designer can download the font.([Google font](https://fonts.google.com/)).
+It is recommended to organise the font size and style in the design process. in this project, I use the font style called "Cursed Timer ULiL". Download the font then unzip it to extract the tiff. file then put the file to the same path of your code.([Fonts2u](https://fonts2u.com/cursed-timer-ulil.font)).
 
 * [ ] Using the technique **@font-face** in CSS, the link is embedded to the CSS. 
 
-  __Resources:__
-	* 📖 [Using @font-face | CSS-Tricks](https://css-tricks.com/snippets/css/using-font-face/)
+```css
+@font-face {
+    src: url("CursedTimerULiL.ttf");
+    font-family: CursedTimerULiL; //you can name the font-family on your own then you can use the font-family to implement in other element.
+}
+```
 
-* [ ] The **Web Safe Fonts** is an important concept. Web safe fonts are fonts that are pre-installed by many operating systems. While not all systems have the same fonts installed, you can use a web safe font stack to choose several fonts that look similar, and are installed on the various systems that you want to support.
+
 
 **[⬆ back to top](#table-of-contents)**
 
 
-### 1.4 - Publish files
-
-* [ ] How to host your website, there are several ways. 1. **Netlify** provides next-generation web hosting and automation that's very affordable. Is can be integrated with Github for publishing web easily. The alternative is using Github Page, my way is to use Github Page. → [Comparison of Github Page and Netlify](https://www.freecodecamp.org/news/publish-your-website-netlify-github/) 
-
-## 2. - Pre-work phases
+## 3. - Flexbox
 
 ### 2.1 - Refine the project using CSS
 
