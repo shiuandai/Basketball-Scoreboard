@@ -11,9 +11,9 @@
 	* [1.1 Structure Design](#11---grid-system)
 	* [1.2 Fonts and texts](#12---fonts-and-texts)
 	* [1.4 Publish files](#14---publish-files)
-* **[3. Flexbox](#2---Flexbox)**
-	* [3.1 Refine the project using CSS](#31---refine-the-project-using-CSS)
-* **[3. Before production](#3---before-production)**
+* **[2. Flexbox](#2---Flexbox)**
+	* [2.1 Property in Flexbox](#21---Property--in--Flexbox)
+* **[3. Function](#3---function)**
 
 ---
 
@@ -71,14 +71,12 @@ It is recommended to organise the font size and style in the design process. in 
 }
 ```
 
-
-
 **[⬆ back to top](#table-of-contents)**
 
 
-## 3. - Flexbox
+## 2. - Flexbox
 
-### 3.1 - Property in Flexbox
+### 2.1 - Property in Flexbox
 
 It is recommended to master **flex-box** concept, it usually combine with different **Property** like **flex-direction: column; align-items: center;** .
 
@@ -86,9 +84,21 @@ Define what condition to use the flex-box, it influences on how the content disp
 
 ⚠️ *Get to know more about Flexbox. Check out ([HERE](https://www.w3schools.com/css/css3_flexbox_container.asp))*
 
-## 3. - Before production
+## 3. - Function()
 
-Before launching your website, be sure to review all your code and make sure the text layout and comment it's easy to read for other programmer.
+Write the basic function makes the number increment "1" when the function acts each time.
+
+```js
+home_scoreEl=document.getElementById("home_scoreel")
+guest_scoreEl=document.getElementById("guest_scoreel")
+let sum=0
+console.log(guest_scoreEl)
+
+function plus_1_home(){
+    sum = sum + 1
+    home_scoreEl.textContent=sum
+}
+```
 
 **[⬆ back to top](#table-of-contents)**
 
