@@ -24,10 +24,10 @@ I start the Scrimba Module 2 course- Web dev basics and learn how to use the bas
 
 ## How I start the project?
 
-* Ensure all points are taken into consideration from Figma Template. → [Figma Template from Scrimba](https://www.figma.com/file/2QuGfAOcHaZJ6aHXfuamnK/Hometown-Homepage?type=design&node-id=0%3A1&mode=design&t=JhG1UWTiUmIeW14l-1)
-* Having a materials preparation document where I collect pictures/text information/text font/color to match a better visual communication and coherence in one page.
+* Ensure all points are taken into consideration from Figma Template. → [Figma Template from Scrimba](https://www.figma.com/file/YC48MCx4frBFtYoz6rNJE6/Basketball-Scoreboard?type=design&node-id=0%3A1&mode=design&t=x5mv3JS4Vi3QXr1R-1)
+* Having a materials preparation document where I collect font style/color to match a better visual communication and coherence in one page.
 * It's important to brainstorm the HTML structure before starting coding, this step helps me save the time.
-* Use the "DRY" concept (Don't Repeat Yourself), so that I learn from tailoring the developer's code and learn from it and Scrimba course.
+* Use the "DRY" concept (Don't Repeat Yourself), so that I learn how to write a function which can be easily used on my project.
 * To show the completed work between a Web and a template, I prefer refining the CSS code to make sure the project can align the design.
 
 ---
