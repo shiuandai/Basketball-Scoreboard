@@ -1,7 +1,7 @@
 <h2 align="center">Basketball-Scoreboard</h2>
 
 <p align="center">
-  <em> The basketball scoreboard is my second project of Scrimba Front-End course, in this course I build web designs from scratch and learning how to use flexbox and <div> properly.</em>
+  <em> The basketball scoreboard is my second project of Scrimba Front-End course, in this course I build web designs from scratch and learning how to use flexbox and "div"properly.</em>
 </p>
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com) [![Join the chat at https://gitter.im/Front-End-Checklist/Front-End-Design-Checklist](https://badges.gitter.im/Front-End-Checklist/Front-End-Design-Checklist.svg)](https://gitter.im/Front-End-Checklist/Front-End-Design-Checklist) [![CC0](https://img.shields.io/badge/license-CC0-green.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
@@ -20,7 +20,7 @@
 
 > The **Hometown Homepage** is my second static website which I learnt how to use the flexbox in two column web struture and the concept of code reusability. By writing the function, I know how to implement function and reduce the repetitive code.
 
-I start the Scrimba Module 2 course- Web dev basics and learn how to use the basic HTML & CSS knowledge. At the end of the course, I follow the Figma template to finish my hometown page where you can know more about me, take a look on the → [My Hometown Homepage](https://shiuandai.github.io/Hometown-Homepage/).
+I start the Scrimba Module 2 course- Web dev basics and learn how to use the basic Loop & Function knowledge. At the end of the course, I follow the Figma template to finish a basketball scoreboard which can be used in any game, take a look on the → [Basketball_Scoreboard](https://shiuandai.github.io/Basketball-Scoreboard/).
 
 ## How I start the project?
 
