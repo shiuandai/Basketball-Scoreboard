@@ -10,7 +10,6 @@
 * **[1. Design requirements](#1---design-requirements)**
 	* [1.1 Structure Design](#11---grid-system)
 	* [1.2 Fonts and texts](#12---fonts-and-texts)
-	* [1.4 Publish files](#14---publish-files)
 * **[2. Flexbox](#2---Flexbox)**
 	* [2.1 Property in Flexbox](#21---Property--in--Flexbox)
 * **[3. Function](#3---function)**
