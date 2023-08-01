@@ -1,7 +1,7 @@
 <h2 align="center">Basketball-Scoreboard</h2>
 
 <p align="center">
-  <em> The basketball scoreboard is my second project of Scrimba Front-End course, in this course I build web designs from scratch and learning how to use flexbox and "div"properly.</em>
+  <em> The basketball scoreboard is my second project of Scrimba Front-End course, in this course I build web designs from scratch and learning how to use flexbox and "div" properly.</em>
 </p>
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com) [![Join the chat at https://gitter.im/Front-End-Checklist/Front-End-Design-Checklist](https://badges.gitter.im/Front-End-Checklist/Front-End-Design-Checklist.svg)](https://gitter.im/Front-End-Checklist/Front-End-Design-Checklist) [![CC0](https://img.shields.io/badge/license-CC0-green.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
