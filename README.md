@@ -11,7 +11,7 @@
 	* [1.1 Structure Design](#11---grid-system)
 	* [1.2 Fonts and texts](#12---fonts-and-texts)
 * **[2. Flexbox](#2---Flexbox)**
-	* [2.1 Property in Flexbox](#21---Property--in--Flexbox)
+	* [2.1 Property in Flexbox](#21---Property-in-Flexbox)
 * **[3. Function](#3---function)**
 
 ---
