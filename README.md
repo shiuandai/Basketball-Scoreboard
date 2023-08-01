@@ -16,7 +16,7 @@
 
 ---
 
-> The **Hometown Homepage** is my second static website which I learnt how to use the flexbox in two column web struture and the concept of code reusability. By writing the function, I know how to implement function and reduce the repetitive code.
+> The **Basketball Scoreboard** is my second static website which I learnt how to use the flexbox in two column web struture and the concept of code reusability. By writing the function, I know how to implement function and reduce the repetitive code.
 
 I start the Scrimba Module 2 course- Web dev basics and learn how to use the basic Loop & Function knowledge. At the end of the course, I follow the Figma template to finish a basketball scoreboard which can be used in any game, take a look on the → [Basketball_Scoreboard](https://shiuandai.github.io/Basketball-Scoreboard/).
 
