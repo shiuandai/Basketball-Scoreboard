@@ -85,7 +85,7 @@ Define what condition to use the flex-box, it influences on how the content disp
 
 ## 3. - Function()
 
-Write the basic function makes the number increment "1" when the function acts each time.
+Write the basic function makes the number increment "1" when the function acts each time. This function becomes a trigger to control the score number.
 
 ```js
 home_scoreEl=document.getElementById("home_scoreel")
