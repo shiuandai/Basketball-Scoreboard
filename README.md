@@ -18,7 +18,7 @@
 
 > The **Basketball Scoreboard** is my second static website where I learned how to use the flexbox in two-column web structure and the concept of code reusability. By writing the function, I know how to implement the function and reduce the repetitive code.
 
-I start the Scrimba Module 2 course- Web dev basics and learn how to use the basic Loop & Function knowledge. At the end of the course, I follow the Figma template to finish a basketball scoreboard that can be used in any game, take a look at the → [Basketball_Scoreboard](https://shiuandai.github.io/Basketball-Scoreboard/).
+I start the Scrimba Module 3 course- Making websites interactive and learn how to use the basic Loop & Function knowledge. At the end of the course, I follow the Figma template to finish a basketball scoreboard that can be used in any game, take a look at the → [Basketball_Scoreboard](https://shiuandai.github.io/Basketball-Scoreboard/).
 
 ## How I start the project?
 
