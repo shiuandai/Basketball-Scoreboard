@@ -12,7 +12,7 @@
 	* [1.2 Fonts and texts](#12---fonts-and-texts)
 * **[2. Flexbox](#2---Flexbox)**
 	* [2.1 Property in Flexbox](#21---Property-in-Flexbox)
-* **[3. Function()](#3---function)**
+* **[3. Function() to increment the number](#3---function-to-increment-the-number)**
 
 ---
 
@@ -83,7 +83,7 @@ Define what condition to use the flex-box, it influences how the content display
 
 ⚠️ *Get to know more about Flexbox. Check out ([HERE](https://www.w3schools.com/css/css3_flexbox_container.asp))*
 
-## 3. - Function()
+## 3. - Function() to increment the number
 
 Write the basic function that makes the number increment "1" when the function acts each time. This function becomes a trigger to control the score number.
 
